@@ -1,4 +1,4 @@
-# Tasters-1.0
+# Red Water game
  Fun game for PyWeek - Python Game Programming Challenge
 
 PyWeek 34 Entry for theme "Red Planet" 
@@ -6,9 +6,9 @@ PyWeek 34 Entry for theme "Red Planet"
 Solo entry by aleksan149
 
 
-![Иллюстрация к проекту](https://github.com/aleksan149/Tasters-1.0/blob/main/screen1.png)
+![Иллюстрация к проекту](https://github.com/aleksan149/Red_Water_game/blob/main/screenshot_1.png)
 
-![Иллюстрация к проекту](https://github.com/aleksan149/Tasters-1.0/blob/main/screen2.png)
+![Иллюстрация к проекту](https://github.com/aleksan149/Red_Water_game/blob/main/screenshot_2.png)
 
 
 ## Dependencies:
